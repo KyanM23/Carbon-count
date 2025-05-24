@@ -1,0 +1,6 @@
+streamlit
+geopy
+numpy
+pandas
+folium
+streamlit_folium
