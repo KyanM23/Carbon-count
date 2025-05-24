@@ -33,7 +33,7 @@ st.markdown("""
 #button to go to page 1
 st.markdown('<div class = "button-container">', unsafe_allow_html = True)
 if st.button("How It Works"):
-    st.switch_page("pages/1_How-It-Works.py")
+    st.switch_page("1_How-It-Works")
 st.markdown('</div>', unsafe_allow_html = True)
 
 ##end of day 1 work, for day 2: input google maps, format window to fit, make sure it allows for zooming in/out, scrolling, clicking(?))
